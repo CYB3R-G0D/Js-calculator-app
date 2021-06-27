@@ -5,7 +5,7 @@
     "package-name": "Jscalculator",
     "project-type": "webview",
     "icon": "./assets/icon/icon.png",
-    "dist-path": "./dist",
+    "dist-path": "./app",
     "permission": [
         "android.permission.INTERNET"
     ],
