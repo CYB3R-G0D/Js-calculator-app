@@ -15,9 +15,9 @@
 
 ### App preview
 <div style="display:flex;">
-<img alt="App image" src="/screenshot/screenshot-01.png" width="30%">
-<img alt="App image" src="/screenshot/screenshot-02.png" width="30%">
-<img alt="App image" src="/screenshot/screenshot-03.png" width="30%">  
+<img alt="App image" src="https://github.com/CYB3R-G0D/Js-calculator-app/raw/main/screenshot/screenshot01.jpg" width="30%">
+<img alt="App image" src="https://github.com/CYB3R-G0D/Js-calculator-app/raw/main/screenshot/screenshot02.jpg" width="30%">
+<img alt="App image" src="https://github.com/CYB3R-G0D/Js-calculator-app/raw/main/screenshot/screenshot03.jpg" width="30%">  
 </div>  
 
 ### Icons from:
