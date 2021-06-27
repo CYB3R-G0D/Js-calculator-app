@@ -22,5 +22,5 @@
 
 ### Icons from:
 
-- [Iconify]('https://iconify.design/')
-- [Icons.com]('https://icons8.com')
+- [Iconify](https://iconify.design)
+- [Icons8.com](https://icons8.com)
